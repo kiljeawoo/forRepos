@@ -86,12 +86,6 @@
             <artifactId>ServiceRegisterStore</artifactId>
             <version>1.0</version>
         </dependency>
-
-        <dependency>
-            <groupId>com.base.shopingmall</groupId>
-            <artifactId>ServiceLogin</artifactId>
-            <version>1.0</version>
-        </dependency>
     </dependencies>
 
     <build>
